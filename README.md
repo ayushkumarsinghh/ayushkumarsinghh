@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ayush Kumar Singh
 
-<!--
-**ayushkumarsinghh/ayushkumarsinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile App Developer (Flutter) | Learning Backend Systems
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build mobile applications with focus on usability and real-world problems.
+
+## Tech Stack
+
+* Flutter (Dart)
+* Firebase
+* REST APIs
+
+## Projects
+
+* Vriddhi – App for child development
+* PGRKAM Analytics – User behavior tracking system
+
+## Currently
+
+* Improving backend skills
+* Learning system design basics
+
+## Contact
+
+* Email: your email
+* LinkedIn: your link
