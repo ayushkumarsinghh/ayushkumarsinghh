@@ -1,10 +1,9 @@
 # Ayush Kumar Singh
 
-Mobile App Developer (Flutter) | Learning Backend Systems
+Learning Backend Systems
 
 ## What I Do
 
-I build mobile applications with focus on usability and real-world problems.
 
 ## Tech Stack
 
