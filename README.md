@@ -2,5 +2,5 @@
 
 Learning Backend 
 
-* Email: your email
+* Email: ayush2006singh26@gmail.com
 * LinkedIn: your link
