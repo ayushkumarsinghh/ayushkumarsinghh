@@ -15,7 +15,7 @@ I'm a passionate developer currently **Learning Backend Development** and buildi
 
 ### 📬 Connect with Me
 
-- 📧 **Email**: [ayush2006singh26@gmail.com](mailto:ayush2006singh26@gmail.com)
+- 📧 **Email**: [ayush2006singh2622@gmail.com](mailto:ayush2006singh2622@gmail.com)
 - 💼 **LinkedIn**: [Ayush Kumar Singh](https://www.linkedin.com/in/ayush-kumar-singh-5a420b368/)
 - 🐙 **GitHub**: [ayushkumarsinghh](https://github.com/ayushkumarsinghh)
 
