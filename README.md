@@ -1,24 +1,30 @@
-# Hi, I'm Ayush Kumar Singh 👋
+# Hi, I'm Ayush Kumar Singh
 
-I'm a passionate developer currently **Learning Backend Development** and building high-impact, full-stack applications. I focus on creating robust APIs and combining them with premium, interactive user interfaces.
+I'm a passionate developer currently Learning Backend Development and building high-impact, full-stack applications. I focus on creating robust APIs and combining them with premium, interactive user interfaces.
 
 ---
 
-### 🚀 Featured Project: [Splito](https://splito-final.vercel.app/)
+### Featured Projects
 
-**Splito** is a premium expense-splitting platform that redefines financial coordination.
+#### [Cinelix](https://github.com/ayushkumarsinghh/cinelix-frontend)
+Cinelix is a high-concurrency movie booking platform designed for a premium user experience.
+- **Frontend**: A high-fidelity React and TypeScript UI featuring cinematic glassmorphism and real-time seat synchronization via WebSockets.
+- **Backend**: A robust Node.js and PostgreSQL engine utilizing Redis distributed locking to manage 100+ concurrent booking attempts with zero data corruption.
+- **Features**: Real-time interactive seat maps, custom wallet financial ledger, and tiered membership logic.
+
+#### [Splito](https://splito-final.vercel.app/)
+Splito is a premium expense-splitting platform that redefines financial coordination.
 - **Frontend**: A high-end "Magic Bento" UI with spotlight effects, glassmorphism, and GSAP animations.
 - **Backend**: A robust Node.js/MongoDB API handling complex debt reconciliation and group invitation workflows.
 - **Features**: Theme-aware design, real-time balance tracking, and secure settlement integration.
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
-- 📧 **Email**: [ayush2006singh2622@gmail.com](mailto:ayush2006singh2622@gmail.com)
-- 💼 **LinkedIn**: [Ayush Kumar Singh](https://www.linkedin.com/in/ayush-kumar-singh-5a420b368/)
-- 🐙 **GitHub**: [ayushkumarsinghh](https://github.com/ayushkumarsinghh)
+- Email: [ayush2006singh2622@gmail.com](mailto:ayush2006singh2622@gmail.com)
+- LinkedIn: [Ayush Kumar Singh](https://www.linkedin.com/in/ayush-kumar-singh-5a420b368/)
 
 ---
 
-*"Building simple solutions for complex problems."*
+"Building simple solutions for complex problems."
