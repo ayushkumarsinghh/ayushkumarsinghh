@@ -6,7 +6,7 @@ I'm a passionate developer currently Learning Backend Development and building h
 
 ### Featured Projects
 
-#### [Cinelix](https://github.com/ayushkumarsinghh/cinelix-frontend)
+#### [Cinelix](https://cinelock-six.vercel.app/)
 Cinelix is a high-concurrency movie booking platform designed for a premium user experience.
 - **Frontend**: A high-fidelity React and TypeScript UI featuring cinematic glassmorphism and real-time seat synchronization via WebSockets.
 - **Backend**: A robust Node.js and PostgreSQL engine utilizing Redis distributed locking to manage 100+ concurrent booking attempts with zero data corruption.
@@ -14,7 +14,7 @@ Cinelix is a high-concurrency movie booking platform designed for a premium user
 
 #### [Splito](https://splito-final.vercel.app/)
 Splito is a premium expense-splitting platform that redefines financial coordination.
-- **Frontend**: A high-end "Magic Bento" UI with spotlight effects, glassmorphism, and GSAP animations.
+- **Frontend**: A high-end UI with spotlight effects, glassmorphism, and GSAP animations.
 - **Backend**: A robust Node.js/MongoDB API handling complex debt reconciliation and group invitation workflows.
 - **Features**: Theme-aware design, real-time balance tracking, and secure settlement integration.
 
