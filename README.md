@@ -14,7 +14,7 @@ Cinelix is a high-concurrency movie booking platform designed for a premium user
 
 #### [Splito](https://splito-final.vercel.app/)
 Splito is a premium expense-splitting platform that redefines financial coordination.
-- **Frontend**: A high-end UI with spotlight effects, glassmorphism, and GSAP animations.
+- **Frontend**: A high-end UI with spotlight effects and GSAP animations.
 - **Backend**: A robust Node.js/MongoDB API handling complex debt reconciliation and group invitation workflows.
 - **Features**: Theme-aware design, real-time balance tracking, and secure settlement integration.
 
