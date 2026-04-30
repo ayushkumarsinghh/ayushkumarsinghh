@@ -9,7 +9,7 @@ I'm a passionate developer currently Learning Backend Development and building h
 #### [Cinelix](https://cinelock-six.vercel.app/)
 Cinelix is a high-concurrency movie booking platform designed for a premium user experience.
 - **Frontend**: A high-fidelity React and TypeScript UI featuring cinematic glassmorphism and real-time seat synchronization via WebSockets.
-- **Backend**: A robust Node.js and PostgreSQL engine utilizing Redis distributed locking to manage 100+ concurrent booking attempts with zero data corruption.
+- **Backend**: A robust Node.js and PostgreSQL engine utilizing Redis distributed locking to manage concurrent booking attempts with zero data corruption.
 - **Features**: Real-time interactive seat maps, custom wallet financial ledger, and tiered membership logic.
 
 #### [Splito](https://splito-final.vercel.app/)
