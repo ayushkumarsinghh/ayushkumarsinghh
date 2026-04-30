@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Kumar Singh
 
-I'm a passionate developer currently Learning Backend Development and building high-impact, full-stack applications. I focus on creating robust APIs and combining them with premium, interactive user interfaces.
+Full-stack developer specializing in concurrency, distributed systems, and async processing—building scalable systems with robust APIs and real-time performances.
 
 ---
 
