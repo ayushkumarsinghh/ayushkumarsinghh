@@ -27,4 +27,4 @@ Splito is a premium expense-splitting platform that redefines financial coordina
 
 ---
 
-"Building simple solutions for complex problems."
+"Building simple solutions for complex problems"
